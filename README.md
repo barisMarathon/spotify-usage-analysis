@@ -78,4 +78,4 @@ Interestingly, despite thinking that I had been listening to the radio more over
 3. Use the Python scripts to visualize the data and run hypothesis tests.
 
 ---
-
+Also I didn't hide the database password and username you can enter try yourself since it is a basic 5mb database from a random free site.
