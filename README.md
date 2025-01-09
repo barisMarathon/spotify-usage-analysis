@@ -70,7 +70,8 @@ Interestingly, despite thinking that I had been listening to the radio more over
 ### **Files in the Repository:**
 1. **`DSA210.py`**: Script for visualizing Spotify and car data.
 2. **`hypothesis_test.py`**: Script for performing hypothesis testing using z-scores.
-3. **SQL Files**: Include SQL queries for cleaning and querying the database.
+3. **`SQLtoTXT.py`**: Script for performing transitions from sql to txt.
+4. **SQL Files**: Include SQL queries for cleaning and querying the database.
 
 ### **To Run the Analysis**:
 1. Ensure Python and required libraries (`pandas`, `matplotlib`, `scipy`, etc.) are installed.
