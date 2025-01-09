@@ -1,4 +1,8 @@
 # **DSA210 Project: Car & Spotify Usage Analysis**
+## **Demo Video**
+
+[Click here to watch the demo video](videoexplainingproject.mp4)
+
 As you can see I had to change the project but it stayed as youtube usage analysis since I am not able to change the github repo.
 ## **Motivation**  
 I spend a lot of time driving to school and visiting my family on weekends. Since I spend so much time driving, I wanted to understand what I typically do during that time.  
