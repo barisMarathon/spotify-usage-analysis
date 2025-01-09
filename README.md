@@ -1,5 +1,5 @@
 # **DSA210 Project: Car & Spotify Usage Analysis**
-## **Demo Video**
+## **Demo Video (Highly suggested for understanding)**
 
 [Click here to watch the demo video](videoexplainingproject.mp4)
 
